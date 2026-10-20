@@ -23,17 +23,17 @@ Installed Anaconda to manage Python and development environments.
 ### 3. Jupyter Notebook
 Installed and tested Jupyter Notebook by running a simple Python program.
 
-![Jupyter Screenshot](screenshots/03-Jupyter-Notebook.png)
+![Jupyter Screenshot](screenshots/03-JupyterNotebook.png)
 
 ### 4. Visual Studio Code
 Installed Visual Studio Code as my code editor.
 
-![VS Code Screenshot](screenshots/04-VS-Code.png)
+![VS Code Screenshot](screenshots/04-VSCode.png)
 
 ### 5. Python Configuration in VS Code
 Installed the Microsoft Python extension, selected a Python interpreter, and successfully ran a Python program.
 
-![Python Configuration Screenshot](screenshots/05-VS-Code-Python.png)
+![Python Configuration Screenshot](screenshots/05-VSCode-Python.png)
 
 ## Conclusion
 
